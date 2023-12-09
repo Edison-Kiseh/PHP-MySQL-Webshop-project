@@ -1,0 +1,81 @@
+#container-trui{
+    background-color: #08304c;
+    color: white;
+}
+
+#container{
+    display: flex;
+    justify-content: space-between;
+    padding: 17px 8px 8px 8px;
+}
+
+ul{
+    display: flex;
+    margin-left: 20px;
+}
+
+li{
+    margin-top: 3px;
+    list-style: none;
+    width: 80px;
+}
+
+.left-side,.right-side{
+    display: flex;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.search-bar{
+    width: 370px;
+    border: 0px;
+    padding-left: 20px;
+    border-radius: 12px 0px 0px 12px;
+}
+
+.search-icon{
+    width: 16px;
+    margin-top: 3px;
+    margin-right: 12px;
+
+}
+
+.search{
+    display: flex;
+    border: 1px solid black;
+    height: 32px;
+    border-radius: 12px 12px 12px 12px;
+    margin-right: 250px;
+}
+
+.icon{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 12px 12px 0px;
+}
+
+.dropdown{
+    width: 20px;
+}
+
+.sort{
+    margin-top: 3px;
+    margin-right: 30px;
+}
+
+.logo{
+    width: 110px;
+    height: 30px;
+}
+
+.button-login{
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.login{
+    margin-top: 3px;
+}

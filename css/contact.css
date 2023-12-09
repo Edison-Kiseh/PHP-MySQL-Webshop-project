@@ -1,0 +1,97 @@
+
+.page{
+    background-color: #041d2f;
+    color: white;
+}
+
+.input-field{
+    width: 500px;
+    height: 40px;
+    font-size: medium;
+    padding: 15px;
+}
+
+#textarea{
+    font-size: medium;
+    padding: 10px 15px;
+    width: 500px;
+    height: 140px;
+}
+
+.button{
+    border-radius: 80px;
+    padding: 10px;
+    font-size: 14px;
+    width: 120px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h1{
+    padding-bottom: 40px;
+}
+
+
+/*header styling*/
+#header-parent-container{
+    background-color: #08304c;
+    color: white;
+    height: 72px;
+    margin-bottom: 60px;
+}
+
+#header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 8px 20px 8px;
+}
+
+ul{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+li{
+    margin-top: 3px;
+    list-style: none;
+    width: 80px;
+}
+
+.left-side,.right-side{
+    display: flex;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.icon{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 12px 12px 0px;
+}
+
+.dropdown{
+    width: 20px;
+}
+
+.logo{
+    width: 110px;
+    height: 30px;
+}
+
+.button-login{
+    width: 90px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 2px;
+}
+
+.login{
+    margin-top: 3px;
+}
+
+

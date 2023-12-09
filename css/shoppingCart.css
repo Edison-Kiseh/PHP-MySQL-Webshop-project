@@ -1,0 +1,70 @@
+/*Header code*/
+#header-parent-container{
+    background-color: #08304c;
+    color: white;
+
+}
+
+#header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 8px 11px 8px;
+}
+
+ul{
+    display: flex;
+    margin-left: 30px;
+}
+
+li{
+    list-style: none;
+    width: 80px;
+    padding-top: 3px;
+}
+
+.left-side,.right-side{
+    display: flex;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.icon{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 12px 12px 0px;
+}
+
+.logo{
+    width: 110px;
+    height: 30px;
+}
+
+.button-login{
+    width: 90px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+
+.login{
+    margin-top: 3px;
+}
+
+#privacy-container{
+    background-color: #0d3653;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+#privacy-parent-container{
+    background-color: #041d2f;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    padding: 40px 0px;
+}
